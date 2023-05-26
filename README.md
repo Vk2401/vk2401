@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 ,This is vasanthkumar s
+
+🌱 I’m currently learning MERN STACK
+
+ 💬 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3132313236302f73637265656e73686f74732f323237383835322f6f70656e696e672e676966](https://github.com/Vk2401/vk2401/assets/95954567/855665f6-ed99-4407-8f8b-7fea7239507d)
+
 
 <!--
 **Vk2401/vk2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
