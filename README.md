@@ -1,5 +1,5 @@
 <h2> Hi, I'm VASANTHKUMAR! <img src="https://media1.tenor.com/images/551d452e9eb7377fd4d189bf905a61f3/tenor.gif" width="50"></h2>
-<h3 align="center"> I'm currently doing project distibutor. Basically a self taught programmer, still learning.</h3>
+<h3 align="center"> I'm currently doing project distribution. Basically a self taught programmer, still learning.</h3>
 
 
 
