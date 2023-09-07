@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **any full-stack projects**
 - 📫 How to reach me **https://linktr.ee/Vasanthkumar24**
-- ⚡ fun fact **Knows to cook ,delectable, crickt person🏏**
+- ⚡ fun fact **Knows to cook, delectable, cricket person🏏**
 
 
 
