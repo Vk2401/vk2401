@@ -18,8 +18,7 @@
    <a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a>
     <a href="https://www.php.net/" target="_blank"> <img   height="40" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></a>
    <a href="https://www.mysql.com/" target="_blank"> <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a>
-   
-   <a href="https://tailwindcss.com/" target="_blank"> <img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></a>
+   <a href="https://tailwindcss.com/" target="_blank"> <img height="60" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></a>
    </p>
 </p>
 
