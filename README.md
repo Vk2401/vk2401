@@ -6,7 +6,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/121260/screenshots/2278852/opening.gif">
 
 - 🔭 I’m currently working on **MERN**
-- 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **any full-stack projects**
 - 📫 How to reach me **https://linktr.ee/Vasanthkumar24**
 - ⚡ fun fact **Knows to cook, delectable, cricket person🏏**
